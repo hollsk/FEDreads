@@ -139,3 +139,5 @@ This goes wihout saying. Puts people on a level footing regardless of _not_ bein
 - [TFL Digital](http://blog.tfl.gov.uk)
 - [The Guardian](http://www.guardian.co.uk/info/developer-blog)
 - [The Times](http://timesdigitaldevelopment.tumblr.com/)
+- [Dev.Opera](https://dev.opera.com)
+- [BBC - Responsive News](http://responsivenews.co.uk)

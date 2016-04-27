@@ -7,10 +7,10 @@ Contributors: [Craig Butcher](https://legobot.uk), [Hollie Kay](http://www.holls
 - [Color Oracle](http://www.colororacle.org/) - This is an app that you can use to simulate colour blindness
 - [Color Safe](http://colorsafe.co/)
 - [Deque Systems](http://www.deque.com)
-- [Hassel Inclusion](http://www.hassellinclusion.com) - hasn't been updated in a while, sadly
-- [Joe Dolson Accessible Web Design](https://www.joedolson.com) - lots of wordpress-specific info here but also more general
+- [Hassel Inclusion](http://www.hassellinclusion.com) - This hasn't been updated in a while, sadly
+- [Joe Dolson Accessible Web Design](https://www.joedolson.com) - Lots of wordpress-specific info here but also more general
 - [Karl Groves](http://www.karlgroves.com)
-- [Marco Zehe's Accessibility Blog](https://www.marcozehe.de) a blind front end developer
+- [Marco Zehe's Accessibility Blog](https://www.marcozehe.de) - A blind front end developer
 - [Pa11y](https://www.pa11y.org)
 - [Paul J Adams' blog](http://pauljadam.com/blog)
 - [Simply Accessible](http://simplyaccessible.com)
